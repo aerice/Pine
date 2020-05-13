@@ -1,6 +1,5 @@
 #include <Pine.h>
 
-
 class Sandbox : public Pine::Application
 {
 public:
